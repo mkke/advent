@@ -19,7 +19,7 @@ void processCommand(char* line) {
     if (line[1] == '0') {
       setMode(MODE_OFF);
     } else if (line[1] == '1') {
-      setMode(MODE_OFF);
+      setMode(MODE_ON);
     }
     if (mode == MODE_OFF) {
       Serial.println("M0");
