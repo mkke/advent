@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="Advent2.svg">
+   sodipodi:docname="top_plate.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0987203"
-     inkscape:cx="726.37795"
+     inkscape:cx="657.3366"
      inkscape:cy="513.77953"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -87,8 +87,7 @@
      inkscape:label="Cut"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-24.803154)"
-     sodipodi:insensitive="true">
+     transform="translate(0,-24.803154)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:24px;line-height:125%;font-family:Futura;-inkscape-font-specification:'Futura Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -429,6 +428,25 @@
          rx="1.55022e-14"
          ry="1.5502199e-14"
          transform="matrix(0,1,-1,0,0,0)" />
+    </g>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#006600;stroke-width:0.70866144;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 765.7375,528.03623 a 40.748028,40.748028 0 0 1 -28.8132,49.90595 40.748028,40.748028 0 0 1 -49.90594,-28.81321 40.748028,40.748028 0 0 1 28.8132,-49.90594 40.748028,40.748028 0 0 1 49.90594,28.8132 z"
+       id="path9384"
+       inkscape:connector-curvature="0" />
+    <g
+       transform="translate(7.185173e-7,-5.6076044e-6)"
+       id="g5462">
+      <path
+         id="path5404"
+         d="m 661.00396,538.58264 a 5.4921207,5.4921217 0 0 1 -5.49212,5.49212 5.4921207,5.4921217 0 0 1 -5.49212,-5.49212 5.4921207,5.4921217 0 0 1 5.49212,-5.49212 5.4921207,5.4921217 0 0 1 5.49212,5.49212 z"
+         style="fill:none;fill-opacity:1;stroke:#008000;stroke-width:0.70866144;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         id="ellipse5406"
+         d="m 802.7362,538.58264 a 5.4921207,5.4921217 0 0 1 -5.49212,5.49212 5.4921207,5.4921217 0 0 1 -5.49212,-5.49212 5.4921207,5.4921217 0 0 1 5.49212,-5.49212 5.4921207,5.4921217 0 0 1 5.49212,5.49212 z"
+         style="fill:none;fill-opacity:1;stroke:#008000;stroke-width:0.70866144;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
     </g>
   </g>
   <g
